@@ -1,0 +1,17 @@
+
+.appanalyzer/
+.hvigor/
+.idea/
+.preview/
+build/
+node_modules/
+oh_modules/
+
+.cxx
+.DS_Store
+**/.test
+/.clang-format
+/.clang-tidy
+/.clangd
+/local.properties
+/oh-package-lock.json5
