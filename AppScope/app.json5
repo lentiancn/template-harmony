@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.gentkit.harmony",
+    "bundleName": "com.gentkit.template.harmony",
     "vendor": "田隆 (Len)",
     "versionCode": 1000000,
     "versionName": "1.0.0",

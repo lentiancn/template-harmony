@@ -1,1 +1,1 @@
-# gentkit-for-harmony
+# template-harmony
